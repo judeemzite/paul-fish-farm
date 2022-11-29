@@ -1,0 +1,292 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div.container{
+    background-image: url(fish2.jpg);
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+div.container ul{
+    background-color:black;
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    border-bottom: 3px solid greenyellow;
+    
+
+    
+}
+div.container li{
+    display: inline;
+    list-style: none;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+ul a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    color: yellow;
+} 
+div h1{
+    text-align: center;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 25px;
+    color: white;
+    font-size: 40px;
+    
+}
+
+div.catfish{
+    background-color:rgb(27, 25, 25);
+    opacity: 0.4;
+    margin-top: 10%;
+    padding: 25px;
+    margin-left:13%;
+    margin-right: 13%;
+    
+}
+p.catf{
+    color:yellowgreen;
+    text-align: center;
+    font-weight:100;
+    width:100%;
+    font-size: 38px;
+    margin-left:1%;
+}
+div.container2{
+    background-color:rgb(196, 190, 190);
+    opacity:;
+    padding-bottom:1%;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+nav{
+    margin-left: 2.5%;
+    padding-top: 12px;
+}
+
+li{
+    display: inline;
+    padding:10px;
+    
+}
+div.container3{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+div.container3 h2{
+    color: black;
+    text-align: center;
+    opacity: 0.8;
+    padding-top: 7%;
+}
+hr{
+    margin-left:48% ;
+    margin-right: 48%;
+    
+}
+div.container3 h4{
+font-family: Arial, Helvetica, sans-serif;
+opacity: 0.8;
+margin-left: 3%;
+
+
+}
+div.container3 p{
+margin-left:3%;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+opacity: 0.5;
+letter-spacing:2.3px;
+
+}
+div.im{
+    
+    margin-left: 53%;
+    margin-top:-25%;  
+}
+
+div.meet{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:400;
+    font-size: 20px;
+    padding-top: 80px;
+}
+div.imag{
+    display: flex;
+    justify-content: center;
+}
+div.wom{
+ padding: 20px;   
+}
+div.man1{
+    padding:20px;
+}
+div.man{
+    padding:20px;
+}
+div.woma{
+    padding:20px;
+}
+
+div.caro h5{
+  color: yellow;
+  margin-left: 2%;
+}
+div.caro {
+    margin-left: 11%;
+}
+div.caro p{
+    margin-left: -1%;
+}
+div.sam{
+    margin-left: 36%;
+    margin-top: -5.5%;
+}
+div.sam h3{
+    margin-left: -1%;
+}
+div.sam h5{
+    margin-left:-5px;
+    color: yellow;
+}
+div.sam p{
+    margin-left: -3%;
+}
+div.paul{
+    margin-left: 60%;
+    margin-top: -5.5%;
+}
+div.paul h5{
+    margin-left: -7%;
+    color: yellow;
+}
+div.paul p{
+    margin-left: -12%;
+}
+div.gold{
+    margin-left: 83%;
+    margin-top: -5.7%;
+}
+div.gold h5{
+    margin-left: -9%;
+    color: yellow;
+}
+div.gold p{
+    margin-left: -20%;
+}
+div.container5{
+    background-color: aliceblue;
+    margin-top:7%;
+    padding-bottom: 4%;
+}
+div.mailus h3{
+    padding-top: 5%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+div.mailus button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius:10px;
+    border: none;
+    background-color:darkblue;
+    margin-left:45%;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+div.container6{
+    background-color: black;
+    padding-bottom:15%;
+    display: flex;
+    color: white;
+    
+    
+}
+div.container6 h4{
+    margin-top: 2.6%;
+    margin-left:10%;
+
+}
+
+div.aboutus{
+    color: white;
+    
+    margin-top: 3%;
+    
+} 
+div.container6 p{
+  opacity: 0.4;  
+  padding-top: 35px;
+  margin-left:-20%;
+}
+input{
+    margin:-20%;
+}
+button{
+    margin-left:20%;
+    padding-right:18px;
+    padding-left: 18px;
+    padding-top: 7px;
+    padding-bottom:7px;
+    background-color:rgb(213, 255, 28);
+    
+    
+    
+}
+div.container6 h3{
+    margin-top:2.1%;
+    margin-left:5%;
+    
+    
+}
+div.Address{
+    padding-top: 37px;
+    margin-left:%;
+}
+div.address p{
+    margin-left:-20%;
+}
+div.socialmedia{
+    padding-top: 5%;
+    
+}
+div.container6 h5{
+    margin-top: 5%;
+    margin-left:7%;
+}
+div.socialmedia p{
+    margin-left:40%;
+}
+
+
+
+
+
+
+
+    
+    
